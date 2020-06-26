@@ -9,6 +9,7 @@
 </template>
 
 <style>
+@import "./assets/css/base.css";
 
 #nav {
   padding: 30px;
